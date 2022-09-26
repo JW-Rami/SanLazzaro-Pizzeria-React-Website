@@ -3,8 +3,8 @@ import "./Header.css";
 import { IconButton } from "@material-ui/core";
 import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 import MenuIcon from "@material-ui/icons/Menu";
-import Logo from "../../assets/images/Logo.png";
-import WhiteLogo from "../../assets/images/Logo-white.png";
+import Logo from "../../assets/images/SanLazzaroBlack.svg";
+import WhiteLogo from "../../assets/images/SanLazzaroWhite.svg";
 import CloseIcon from "@material-ui/icons/Close";
 
 function Header() {
