@@ -50,7 +50,9 @@ function Header() {
                     <div className="header__right">
                         <div className="header__list" ref={headerList}>
                             <div className="header__buttons">
-                                <a
+                                {/* 
+                                    Button "Log In" or "Sign Up" for Authentification
+                                    <a
                                     href="#"
                                     className="header__button header__button--bordered"
                                 >
@@ -61,7 +63,7 @@ function Header() {
                                     className="header__button header__button--fill"
                                 >
                                     Sign Up
-                                </a>
+                                </a> */}
                             </div>
                             <a href="#" className="header__list-item">
                                 Orders

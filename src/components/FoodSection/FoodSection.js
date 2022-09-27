@@ -18,6 +18,7 @@ function FoodSection({ sectionName, foods }) {
             smoothScroll(slider.current, "left", 10, 125, 10);
         });
 
+        
         // Right arrow
         rightArrow.current.addEventListener("click", () => {
             smoothScroll(slider.current, "right", 10, 125, 10);
