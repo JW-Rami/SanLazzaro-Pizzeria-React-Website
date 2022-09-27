@@ -5,7 +5,7 @@ function Title({ title }) {
     return (
         <div className="title-container">
             <div className="title-wrapper">
-                <h2 className="title">{title}</h2>
+                <h2 className="title" id="Foods">{title}</h2>
                 <div className="underline"></div>
             </div>
         </div>

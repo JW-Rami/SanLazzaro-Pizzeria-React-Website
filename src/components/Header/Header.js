@@ -69,7 +69,7 @@ function Header() {
                             <a href="#" className="header__list-item">
                                 Réserver une table
                             </a>
-                            <a href="#" className="header__list-item">
+                            <a href="#Foods" className="header__list-item">
                                 Notre carte
                             </a>
                         </div>
