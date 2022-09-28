@@ -4,7 +4,7 @@ import { InlineWidget } from "react-calendly";
 
 function TableReservation() {
 return (
-    <div id="TableReservation">
+    <div id="tablereservation">
 
     <InlineWidget url="https://calendly.com/arthur-bineau/sanlazzaro" />
 
