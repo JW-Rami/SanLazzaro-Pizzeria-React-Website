@@ -6,7 +6,7 @@ function TableReservation() {
 return (
     <div id="TableReservation">
 
-    <InlineWidget url="https://calendly.com/arthur-bineau/sanlazzaro?background_color=ddf2cd&primary_color=ddf2cd" />
+    <InlineWidget url="https://calendly.com/arthur-bineau/sanlazzaro" />
 
     </div>
 )
