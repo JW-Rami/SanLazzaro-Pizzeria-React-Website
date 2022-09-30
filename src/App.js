@@ -33,7 +33,7 @@ function App() {
             <BrowserRouter >
                <Routes>
                 {/* <Route path="/tablereservation" element={<h1>Bonsoir</h1>}/> */}
-                
+
                </Routes>
             </BrowserRouter>
 
@@ -41,6 +41,11 @@ function App() {
             <Hero />
             <Foods />
             <TableReservation/>
+            {/* <BrowserRouter>
+                <Routes>
+                    <Route path="/tablereservation" element={<h1>Oui</h1>}/>
+                </Routes>
+            </BrowserRouter> */}
             <Footer />
         </div>
     );

@@ -6,6 +6,7 @@ import MenuIcon from "@material-ui/icons/Menu";
 import Logo from "../../assets/images/SanLazzaroBlack.svg";
 import WhiteLogo from "../../assets/images/SanLazzaroWhite.svg";
 import CloseIcon from "@material-ui/icons/Close";
+import {Link} from "react-router-dom";
 
 function Header() {
     const headerRef = useRef(null);
@@ -71,6 +72,9 @@ function Header() {
                             <a href="#tablereservation" className="header__list-item">
                                 Réserver une table
                             </a>
+                            <span>
+                            {/* <Link to ="/tablereservation">Réserver une table</Link> */}
+                            </span>
                             <a href="#Foods" className="header__list-item">
                                 Notre carte
                             </a>
