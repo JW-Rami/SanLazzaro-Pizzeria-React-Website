@@ -1,24 +1,26 @@
-import React from "react";
+
 // import { Routes, Route } from "react-router-dom";
 import { InlineWidget } from "react-calendly";
-import {BrowserRouter, Routes, Route, Link} from 'react-router-dom';
-import Hero from '../Hero/Hero';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+// import Hero from '../Hero/Hero';
+import Oui from "./Oui";
+import { HashLink as Link } from "react-router-hash-link";
 
 
 function TableReservation() {
-return (
-    <div id="tablereservation">
+  return (
+    <div>
+     
+        <Link to="#Heidi">Dokoooo</Link>
 
-    <InlineWidget url="https://calendly.com/arthur-bineau/sanlazzaro" />
-    <BrowserRouter>
-    <Link to ="#test" >Doko</Link>
-        <Routes>
-            <Route path="/tablereservation" element={"<Hero/>"} />
-        </Routes>
-    </BrowserRouter>
+      <Oui />
+      <p id="Heidi">
+        Eyedi
+      </p>
 
+      <InlineWidget url="https://calendly.com/arthur-bineau/sanlazzaro" />
     </div>
-)
+  );
 }
 
 export default TableReservation;

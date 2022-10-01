@@ -20,8 +20,11 @@ function Hero() {
         <div className="hero" ref={hero}>
             <div className="container hero-container">
                 <div className="hero__textbox">
-                    <h1 className="hero__title" id="test">
+                    <h1 className="hero__title">
+                        <a href="#test" >
+
                         SAN LAZZARO VENEZIANO
+                        </a>
                     </h1>
                     <p className="hero__text">
                        Laissez vous tentez par les pizzas de San Lazzaro

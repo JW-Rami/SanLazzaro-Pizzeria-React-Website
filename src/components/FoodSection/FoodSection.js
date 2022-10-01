@@ -9,6 +9,7 @@ function FoodSection({ sectionName, foods }) {
     const leftArrow = useRef(null);
     const slider = useRef(null);
     const [isScroll, setIsScroll] = useState(true);
+    console.log(slider);
 
     useEffect(() => {
         setIsScroll(slider.current.scrollWidth > slider.current.clientWidth);
@@ -24,43 +25,43 @@ function FoodSection({ sectionName, foods }) {
             smoothScroll(slider.current, "right", 10, 125, 10);
         });
 
-        // Slider AutoScroll
-        const maxScrollLeft =
-            slider.current.scrollWidth - slider.current.clientWidth;
-        let direction = "right";
-        function autoScroll() {
-            if (slider.current.scrollLeft === maxScrollLeft) {
-                direction = "left";
-                slider.current.scrollLeft--;
-            }
-            // } else if (slider.current.scrollLeft === 0) {
-            //     direction = "right";
-            //     slider.current.scrollLeft++;
-            // }
+    //     // Slider AutoScroll
+    //     const maxScrollLeft =
+    //         slider.current.scrollWidth - slider.current.clientWidth;
+    //     let direction = "right";
+    //     function autoScroll() {
+    //         if (slider.current.scrollLeft === maxScrollLeft) {
+    //             direction = "left";
+    //             slider.current.scrollLeft--;
+    //         }
+    //         // } else if (slider.current.scrollLeft === 0) {
+    //         //     direction = "right";
+    //         //     slider.current.scrollLeft++;
+    //         // }
 
-            if (direction === "right") {
-                slider.current.scrollLeft++;
-            } else {
-                slider.current.scrollLeft--;
-            }
-        }
-        let playNumber = setInterval(autoScroll, 50);
+    //         if (direction === "right") {
+    //             slider.current.scrollLeft++;
+    //         } else {
+    //             slider.current.scrollLeft--;
+    //         }
+    //     }
+    //     let playNumber = setInterval(autoScroll, 50);
 
-        // Touch event for mobile devices
-        slider.current.addEventListener("touchstart", () => {
-            clearInterval(playNumber);
-        });
-        slider.current.addEventListener("touchend", () => {
-            playNumber = setInterval(autoScroll, 50);
-        });
+    //     // Touch event for mobile devices
+    //     slider.current.addEventListener("touchstart", () => {
+    //         clearInterval(playNumber);
+    //     });
+    //     slider.current.addEventListener("touchend", () => {
+    //         playNumber = setInterval(autoScroll, 50);
+    //     });
 
-        // Stoping AutoScroll on hover
-        slider.current.addEventListener("mouseover", () => {
-            clearInterval(playNumber);
-        });
-        slider.current.addEventListener("mouseleave", () => {
-            playNumber = setInterval(autoScroll, 50);
-        });
+    //     // Stoping AutoScroll on hover
+    //     slider.current.addEventListener("mouseover", () => {
+    //         clearInterval(playNumber);
+    //     });
+    //     slider.current.addEventListener("mouseleave", () => {
+    //         playNumber = setInterval(autoScroll, 50);
+    //     });
 
     }, []);
 
