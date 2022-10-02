@@ -10,15 +10,18 @@ import { HashLink as Link } from "react-router-hash-link";
 function TableReservation() {
   return (
     <div>
-     
+             <a href="">
+            
         <Link to="#Heidi">Dokoooo</Link>
+            </a>
 
       <Oui />
-      <p id="Heidi">
-        Eyedi
-      </p>
 
-      <InlineWidget url="https://calendly.com/arthur-bineau/sanlazzaro" />
+      <span id="tablereservation">
+      
+      <InlineWidget  url="https://calendly.com/arthur-bineau/sanlazzaro" />
+
+      </span>
     </div>
   );
 }

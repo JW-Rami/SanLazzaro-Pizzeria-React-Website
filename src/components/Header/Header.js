@@ -70,10 +70,15 @@ function Header() {
                             <a href="#" className="header__list-item">
                                 Orders
                             </a>
-                            <a href="#tablereservation" className="header__list-item">
+                            {/* <a href="#tablereservation" className="header__list-item">
                                 Réserver une table
-                            </a>
+                            </a> */}
+                            
+                            <a href="">
+
                                 <Link to="#tablereservation" className="header__list-item"> Réserver une table </Link>
+
+                            </a>
                             <span>
                             {/* <Link to ="/tablereservation">Réserver une table</Link> */}
                             </span>
