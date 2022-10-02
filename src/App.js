@@ -38,12 +38,6 @@ function App() {
                </Routes>
             
             </BrowserRouter>
-
-            {/* <BrowserRouter>
-                <Routes>
-                    <Route path="/tablereservation" element={<h1>Oui</h1>}/>
-                </Routes>
-            </BrowserRouter> */}
         </div>
     );
 }
