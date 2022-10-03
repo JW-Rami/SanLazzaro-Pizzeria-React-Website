@@ -1,4 +1,26 @@
 .ItalianFoods {
     display: flex;
     justify-content: center    ; 
+    justify-content: space-around;
+    
 }
+
+/* .starter {
+
+}
+
+.pizzas {
+
+}
+
+.delicatessen {
+
+}
+
+.seafoodspeciality ,.starter, .pizzas ,.delicatessen, .vins {
+
+}
+
+.vins {
+    
+} */
