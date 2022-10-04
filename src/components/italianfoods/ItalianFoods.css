@@ -2,19 +2,24 @@
     display: flex;
     /* justify-content: space-around; */
     /* padding: 5em; */
-    background-color: red;
+    /* background-color: red; */
     justify-content: center;
     /* width: 50%; */
     /* height: ; */
+    border: 0.2em solid rgb(209, 202, 202);
+    flex-wrap: wrap;
+    width: 50%;
     
 }
 
 .test {
-    border: 0.5em solid black;
+    background-color: blueviolet;
 }
 
 .starter {
-
+flex-wrap: wrap;
+width: 20%;
+background-color: aqua; 
 }
 
 .pizzas {
