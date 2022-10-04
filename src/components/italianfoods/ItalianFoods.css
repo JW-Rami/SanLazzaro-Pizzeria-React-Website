@@ -1,11 +1,19 @@
 .ItalianFoods {
     display: flex;
-    justify-content: center    ; 
-    justify-content: space-around;
+    /* justify-content: space-around; */
+    /* padding: 5em; */
+    background-color: red;
+    justify-content: center;
+    /* width: 50%; */
+    /* height: ; */
     
 }
 
-/* .starter {
+.test {
+    border: 0.5em solid black;
+}
+
+.starter {
 
 }
 
@@ -18,9 +26,17 @@
 }
 
 .seafoodspeciality ,.starter, .pizzas ,.delicatessen, .vins {
+    font-size: 1em;
+    padding: 1.5em;
+    display: flex;
+    justify-content: center;
 
 }
 
 .vins {
     
-} */
+}
+
+.titre {
+    
+}

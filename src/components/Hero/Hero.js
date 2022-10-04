@@ -27,7 +27,11 @@ function Hero() {
                         
                     </h1>
                     <p className="hero__text">
-                       Laissez vous tentez par les pizzas de San Lazzaro
+                       Laissez vous tentez par les pizzas de San Lazzaro.
+                       
+                       <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
                     </p>
                 </div>
                 <div className="hero__burger">
