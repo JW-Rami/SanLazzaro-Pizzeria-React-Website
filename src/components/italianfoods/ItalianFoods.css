@@ -1,3 +1,8 @@
+.Italian {
+    display: flex;
+    justify-content: center;
+}
+
 .ItalianFoods {
     display: flex;
     /* justify-content: space-around; */
@@ -8,18 +13,18 @@
     /* height: ; */
     border: 0.2em solid rgb(209, 202, 202);
     flex-wrap: wrap;
-    width: 50%;
+    width: 80%;
     
 }
 
 .test {
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
 }
 
 .starter {
 flex-wrap: wrap;
 width: 20%;
-background-color: aqua; 
+/* background-color: aqua;  */
 }
 
 .pizzas {
@@ -35,7 +40,16 @@ background-color: aqua;
     padding: 1.5em;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
+    width: 20%;
+}
 
+.mealstitle {
+padding-bottom: 10%;
+}
+
+.mealsdescription {
+    font-size: 0.8em;
 }
 
 .vins {
