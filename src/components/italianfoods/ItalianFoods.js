@@ -4,6 +4,7 @@ import pizzamarguerita from "../../assets/images/pizzamarguerita.jpg";
 import charcuterie from "../../assets/images/charcuterie.jpg"
 import risotto from "../../assets/images/risotto.jpg"
 import vin from "../../assets/images/vin.jpg"
+import CompleteMenu from "../CompleteMenu/CompleteMenu";
 
 function ItalianFoods() {
   return (
@@ -59,7 +60,6 @@ function ItalianFoods() {
             </a>
             
           </h2>
-          
         </section>
       </section>
     </>
