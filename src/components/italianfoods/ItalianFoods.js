@@ -1,5 +1,3 @@
-// import pizzaspinash from "../../assets/images/"
-
 import "./ItalianFoods.css";
 import cesarsalad from "../../assets/images/cesarsalad.jpg";
 import pizzamarguerita from "../../assets/images/pizzamarguerita.jpg";
@@ -10,8 +8,8 @@ import vin from "../../assets/images/vin.jpg"
 function ItalianFoods() {
   return (
     <>
-      <section className="Italian">
-        <section className="ItalianFoods">
+      <section  className="Italian">
+        <section  className="ItalianFoods">
           <div className="starter">
             <h3 className="mealstitle">Nos entrées</h3>
             <p className="mealsdescription">
@@ -55,11 +53,13 @@ function ItalianFoods() {
           Rouges, rosés et blanc, découvrez nos vins Italiens ou nos rouges et rosés de France..
           </p>
           </div>
-          <h2>
-            
+          <h2 className="full-menu-button">
+            <a className="border-button" href="">
               Découvrir notre carte
+            </a>
             
           </h2>
+          
         </section>
       </section>
     </>

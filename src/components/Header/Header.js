@@ -82,8 +82,10 @@ function Header() {
                             <span>
                             {/* <Link to ="/tablereservation">Réserver une table</Link> */}
                             </span>
-                            <a href="#Foods" className="header__list-item">
+                            <a href="" >
+                                <Link to="#Italianfoods" className="header__list-item">
                                 Notre carte
+                                    </Link> 
                             </a>
                         </div>
                         <div>
