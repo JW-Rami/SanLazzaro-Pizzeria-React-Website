@@ -5,6 +5,7 @@ import charcuterie from "../../assets/images/charcuterie.jpg"
 import risotto from "../../assets/images/risotto.jpg"
 import vin from "../../assets/images/vin.jpg"
 import CompleteMenu from "../CompleteMenu/CompleteMenu";
+import Footer from "../Footer/Footer";
 
 function ItalianFoods() {
   return (
@@ -49,6 +50,7 @@ function ItalianFoods() {
           <h3 className="mealstitle">
             Nos vins
           </h3>
+          
           <p className="mealsdescription">
             <img src={vin} alt="" />
           Rouges, rosés et blanc, découvrez nos vins Italiens ou nos rouges et rosés de France..
@@ -60,6 +62,8 @@ function ItalianFoods() {
             </a>
             
           </h2>
+          
+          <CompleteMenu text="yes" />
         </section>
       </section>
     </>

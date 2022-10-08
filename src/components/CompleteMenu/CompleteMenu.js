@@ -1,13 +1,13 @@
-import "../../assets/pdf/la_carte_recto.pdf"
+import React from 'react';
 
-function CompleteMenu () {
-
-
+function CompleteMenu(props) {
     return (
-<div>
-    
-</div>
-    )
+        <div>
+           <p>
+             {props.text}
+           </p>
+        </div>
+    );
 }
 
-export default CompleteMenu();
+export default CompleteMenu;

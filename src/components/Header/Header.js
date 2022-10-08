@@ -18,10 +18,10 @@ function Header() {
     window.addEventListener("scroll", () => {
         const scrollHeight = window.pageYOffset;
         if (scrollHeight > 120) {
-            headerRef.current.className = "header header--fixed";
+            headerRef.current.className="header header--fixed";
             setIsHeaderFixed(true);
         } else {
-            headerRef.current.className = "header";
+            headerRef.current.className="header";
             setIsHeaderFixed(false);
         }
     });
