@@ -7,6 +7,7 @@ import vin from "../../assets/images/vin.jpg";
 import CompleteMenu from "../CompleteMenu/CompleteMenu";
 import Footer from "../Footer/Footer";
 import Menu from "../Menu/menu";
+import pdfFile from "../../assets/pdf/la_carte.pdf";
 // import View1 from "../TestAspect/View1.js"
 import { Link } from "react-router-dom";
 
@@ -46,7 +47,7 @@ function ItalianFoods() {
           {/* <CompleteMenu/> */}
 
           <h2 className="full-menu-button">
-            <a className="border-button" href="#">
+            <a className="border-button" href={pdfFile}>
               Découvrir notre carte
             </a>
           </h2>
@@ -54,9 +55,9 @@ function ItalianFoods() {
           {/* <button onClick={<CompleteMenu text="yes" />}>
   Activate Lasers
 </button> */}
+      <CompleteMenu />
         </section>
       </section>
-      <CompleteMenu />
     </>
   );
 }

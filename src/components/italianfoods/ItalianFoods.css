@@ -5,16 +5,18 @@
 
 .ItalianFoods {
     display: flex;
-    /* justify-content: space-around; */
-    /* padding: 5em; */
-    /* background-color: red; */
     justify-content: center;
-    /* width: 50%; */
-    /* height: ; */
     border: 0.2em solid rgb(209, 202, 202);
     flex-wrap: wrap;
     width: 80%;
-    
+}
+
+@media screen and (max-width: 800px) {
+
+    .ItalianFoods{
+        display: block;
+    }
+   
 }
 
 

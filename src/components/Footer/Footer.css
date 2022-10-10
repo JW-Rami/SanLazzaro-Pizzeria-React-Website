@@ -91,6 +91,38 @@
     font-size: 1.5rem !important;
 }
 
+
+.googlemap {
+    display: inline;
+    width: 650px;
+    height: 350px;
+}
+
+.horaire {
+    display: inline;
+    float: right;
+}
+
+.jour {
+    margin-bottom: 20px ;
+}
+
+@media screen and (max-width: 800px) {
+    .googlemap {
+        width: 95%;
+        margin-bottom: 30px;
+    }
+    
+    .horaire {
+       display: block;
+       float: none;
+    }
+
+    .jour {
+        text-align: center;
+    }
+}
+
 @media all and (min-width: 600px) {
     .footer__links {
         justify-content: flex-end;
