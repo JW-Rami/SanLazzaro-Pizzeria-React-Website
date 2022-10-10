@@ -1,0 +1,16 @@
+.menu {
+    font-size: 1em;
+    padding: 1.5em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 20%;
+}
+
+.mealstitle {
+padding-bottom: 10%;
+}
+
+.mealsdescription {
+    font-size: 0.8em;
+}

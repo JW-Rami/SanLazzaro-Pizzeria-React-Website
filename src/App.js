@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
+import Default from "./components/Default/Default";
 
 
 import { BrowserRouter as Router, Switch, Route, Redirect, Link } from "react-router-dom";
@@ -14,6 +15,7 @@ import TableReservation from "./components/TableReservation/TableReservation";
 import { InlineWidget } from "react-calendly";
 import {BrowserRouter, Routes} from 'react-router-dom';
 import Home from "./components/Home/Home";
+import CompleteMenu from "./components/CompleteMenu/CompleteMenu";
 
 
 function App() {
@@ -34,7 +36,7 @@ function App() {
             <BrowserRouter >
                <Routes>
                 <Route path="/" element={<Home/>} />
-                    
+                <Route path="/Test" element={<CompleteMenu/>} />
                </Routes>
             
             </BrowserRouter>

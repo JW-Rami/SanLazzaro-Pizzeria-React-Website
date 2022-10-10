@@ -1,0 +1,925 @@
+.View1-circle {
+  box-sizing: border-box;
+  fill: rgb(0, 216, 255);
+}
+
+.View1-circle-0 {
+  box-sizing: border-box;
+  fill: rgb(0, 216, 255);
+}
+
+.View1-defs {
+  box-sizing: border-box;
+}
+
+.View1-defs-0 {
+  box-sizing: border-box;
+}
+
+.View1-defs-1 {
+  box-sizing: border-box;
+}
+
+.View1-div {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-text-fill-color: rgb(82, 95, 127);
+  -webkit-text-stroke-color: rgb(82, 95, 127);
+  border-block-end-color: rgb(82, 95, 127);
+  border-block-start-color: rgb(82, 95, 127);
+  border-bottom-color: rgb(82, 95, 127);
+  border-inline-end-color: rgb(82, 95, 127);
+  border-inline-start-color: rgb(82, 95, 127);
+  border-left-color: rgb(82, 95, 127);
+  border-right-color: rgb(82, 95, 127);
+  border-top-color: rgb(82, 95, 127);
+  box-sizing: border-box;
+  caret-color: rgb(82, 95, 127);
+  color: rgb(82, 95, 127);
+  column-rule-color: rgb(82, 95, 127);
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Open Sans, sans-serif;
+  height: 336px;
+  justify-content: center;
+  line-height: 24px;
+  margin-bottom: 48px;
+  outline-color: rgb(82, 95, 127);
+  text-align: center;
+  text-decoration: none solid rgb(82, 95, 127);
+  text-decoration-color: rgb(82, 95, 127);
+  text-emphasis-color: rgb(82, 95, 127);
+  text-size-adjust: 100%;
+  width: 490px;
+}
+
+.View1-div-0 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-1 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-10 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-11 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-12 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-13 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-14 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-15 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-2 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-3 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-4 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-5 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-6 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-7 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-8 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-div-9 {
+  align-items: center;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 5px 15px 0px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 48px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  transition-duration: 0.15s;
+  width: 64px;
+}
+
+.View1-ellipse {
+  box-sizing: border-box;
+  fill: url(#IconifyId-183b9c234aa-1009ca-0);
+}
+
+.View1-ellipse-0 {
+  box-sizing: border-box;
+  fill: rgb(98, 128, 182);
+}
+
+.View1-ellipse-1 {
+  box-sizing: border-box;
+  fill: rgb(255, 218, 68);
+}
+
+.View1-fecolormatrix {
+  box-sizing: border-box;
+}
+
+.View1-fecolormatrix-0 {
+  box-sizing: border-box;
+}
+
+.View1-fecomposite {
+  box-sizing: border-box;
+}
+
+.View1-fecomposite-0 {
+  box-sizing: border-box;
+}
+
+.View1-fegaussianblur {
+  box-sizing: border-box;
+}
+
+.View1-fegaussianblur-0 {
+  box-sizing: border-box;
+}
+
+.View1-feoffset {
+  box-sizing: border-box;
+}
+
+.View1-feoffset-0 {
+  box-sizing: border-box;
+}
+
+.View1-filter {
+  box-sizing: border-box;
+}
+
+.View1-filter-0 {
+  box-sizing: border-box;
+}
+
+.View1-lineargradient {
+  box-sizing: border-box;
+}
+
+.View1-lineargradient-0 {
+  box-sizing: border-box;
+}
+
+.View1-lineargradient-1 {
+  box-sizing: border-box;
+}
+
+.View1-path {
+  box-sizing: border-box;
+  fill: rgb(228, 79, 38);
+}
+
+.View1-path-0 {
+  box-sizing: border-box;
+  fill: rgb(241, 102, 42);
+}
+
+.View1-path-1 {
+  box-sizing: border-box;
+  fill: rgb(235, 235, 235);
+}
+
+.View1-path-10 {
+  box-sizing: border-box;
+}
+
+.View1-path-11 {
+  box-sizing: border-box;
+  fill: rgb(0, 216, 255);
+}
+
+.View1-path-12 {
+  box-sizing: border-box;
+  fill: rgb(0, 216, 255);
+}
+
+.View1-path-13 {
+  box-sizing: border-box;
+  fill: rgb(0, 216, 255);
+}
+
+.View1-path-14 {
+  box-sizing: border-box;
+  fill: rgb(0, 216, 255);
+}
+
+.View1-path-15 {
+  box-sizing: border-box;
+  fill: rgb(0, 216, 255);
+}
+
+.View1-path-16 {
+  box-sizing: border-box;
+  fill: rgb(0, 216, 255);
+}
+
+.View1-path-17 {
+  box-sizing: border-box;
+  fill: rgb(83, 158, 67);
+}
+
+.View1-path-18 {
+  box-sizing: border-box;
+  fill: rgb(255, 255, 255);
+}
+
+.View1-path-19 {
+  box-sizing: border-box;
+  fill: rgb(0, 0, 4);
+}
+
+.View1-path-2 {
+  box-sizing: border-box;
+  fill: rgb(255, 255, 255);
+}
+
+.View1-path-20 {
+  box-sizing: border-box;
+  fill: rgb(83, 130, 161);
+}
+
+.View1-path-21 {
+  box-sizing: border-box;
+  fill: rgb(83, 130, 161);
+}
+
+.View1-path-22 {
+  box-sizing: border-box;
+  fill: rgb(83, 130, 161);
+}
+
+.View1-path-23 {
+  box-sizing: border-box;
+  fill: rgb(54, 136, 50);
+}
+
+.View1-path-24 {
+  box-sizing: border-box;
+  fill: rgb(93, 135, 161);
+  fill-rule: evenodd;
+}
+
+.View1-path-25 {
+  box-sizing: border-box;
+  fill: rgb(0, 117, 143);
+  fill-rule: evenodd;
+}
+
+.View1-path-26 {
+  box-sizing: border-box;
+  fill: rgb(255, 218, 68);
+}
+
+.View1-path-27 {
+  box-sizing: border-box;
+  fill: url(#IconifyId-183b9c234ab-4fabb1-1);
+}
+
+.View1-path-28 {
+  box-sizing: border-box;
+  fill: url(#IconifyId-183b9c234ab-4fabb1-2);
+}
+
+.View1-path-29 {
+  box-sizing: border-box;
+  fill: url(#IconifyId-183b9c234ab-4fabb1-3);
+}
+
+.View1-path-3 {
+  box-sizing: border-box;
+  fill: rgb(21, 114, 182);
+}
+
+.View1-path-30 {
+  box-sizing: border-box;
+}
+
+.View1-path-31 {
+  box-sizing: border-box;
+}
+
+.View1-path-32 {
+  box-sizing: border-box;
+  fill: rgb(255, 194, 74);
+}
+
+.View1-path-33 {
+  box-sizing: border-box;
+  fill: rgb(244, 189, 98);
+}
+
+.View1-path-34 {
+  box-sizing: border-box;
+  fill: rgb(246, 130, 12);
+}
+
+.View1-path-35 {
+  box-sizing: border-box;
+  fill: rgb(253, 224, 104);
+}
+
+.View1-path-36 {
+  box-sizing: border-box;
+  fill: rgb(252, 202, 63);
+}
+
+.View1-path-37 {
+  box-sizing: border-box;
+  fill: rgb(238, 171, 55);
+}
+
+.View1-path-38 {
+  box-sizing: border-box;
+  fill: rgb(222, 76, 54);
+}
+
+.View1-path-39 {
+  box-sizing: border-box;
+  fill: rgb(203, 56, 55);
+}
+
+.View1-path-4 {
+  box-sizing: border-box;
+  fill: rgb(51, 169, 220);
+}
+
+.View1-path-40 {
+  box-sizing: border-box;
+  fill: rgb(241, 102, 42);
+}
+
+.View1-path-5 {
+  box-sizing: border-box;
+  fill: rgb(255, 255, 255);
+}
+
+.View1-path-6 {
+  box-sizing: border-box;
+  fill: rgb(235, 235, 235);
+}
+
+.View1-path-7 {
+  box-sizing: border-box;
+  fill: rgb(255, 255, 255);
+}
+
+.View1-path-8 {
+  box-sizing: border-box;
+  fill: rgb(235, 235, 235);
+}
+
+.View1-path-9 {
+  box-sizing: border-box;
+  fill: rgb(247, 223, 30);
+}
+
+.View1-radialgradient {
+  box-sizing: border-box;
+}
+
+.View1-stop {
+  box-sizing: border-box;
+  stop-color: rgb(255, 255, 255);
+}
+
+.View1-stop-0 {
+  box-sizing: border-box;
+  stop-color: rgb(76, 107, 150);
+}
+
+.View1-stop-1 {
+  box-sizing: border-box;
+  stop-color: rgb(35, 31, 32);
+}
+
+.View1-stop-10 {
+  box-sizing: border-box;
+  stop-color: rgb(251, 249, 239);
+}
+
+.View1-stop-11 {
+  box-sizing: border-box;
+  stop-color: rgb(72, 165, 71);
+}
+
+.View1-stop-12 {
+  box-sizing: border-box;
+  stop-color: rgb(63, 145, 67);
+}
+
+.View1-stop-13 {
+  box-sizing: border-box;
+  stop-color: rgb(65, 162, 71);
+}
+
+.View1-stop-14 {
+  box-sizing: border-box;
+  stop-color: rgb(75, 167, 75);
+}
+
+.View1-stop-15 {
+  box-sizing: border-box;
+  stop-color: rgb(103, 181, 84);
+}
+
+.View1-stop-16 {
+  box-sizing: border-box;
+  stop-color: rgb(105, 182, 85);
+}
+
+.View1-stop-2 {
+  box-sizing: border-box;
+  stop-color: rgb(153, 152, 117);
+}
+
+.View1-stop-3 {
+  box-sizing: border-box;
+  stop-color: rgb(155, 153, 119);
+}
+
+.View1-stop-4 {
+  box-sizing: border-box;
+  stop-color: rgb(160, 159, 126);
+}
+
+.View1-stop-5 {
+  box-sizing: border-box;
+  stop-color: rgb(169, 168, 137);
+}
+
+.View1-stop-6 {
+  box-sizing: border-box;
+  stop-color: rgb(183, 182, 154);
+}
+
+.View1-stop-7 {
+  box-sizing: border-box;
+  stop-color: rgb(201, 199, 176);
+}
+
+.View1-stop-8 {
+  box-sizing: border-box;
+  stop-color: rgb(222, 221, 203);
+}
+
+.View1-stop-9 {
+  box-sizing: border-box;
+  stop-color: rgb(248, 246, 235);
+}
+
+.View1-svg {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-0 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-1 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-10 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-11 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-12 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-13 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-14 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-2 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-3 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-4 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-5 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-6 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-7 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-8 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-svg-9 {
+  box-sizing: border-box;
+  font-size: 26px;
+  height: 30px;
+  line-height: 39px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  width: 30px;
+}
+
+.View1-use {
+  box-sizing: border-box;
+  fill: rgb(255, 167, 18);
+  fill-rule: evenodd;
+}
+
+.View1-use-0 {
+  box-sizing: border-box;
+  filter: url(#IconifyId-183b9c234ac-d0febb-4);
+}
+
+.View1-use-1 {
+  box-sizing: border-box;
+  fill: rgb(255, 165, 14);
+  fill-rule: evenodd;
+}
+
+.View1-use-2 {
+  box-sizing: border-box;
+  filter: url(#IconifyId-183b9c234ac-d0febb-5);
+}
