@@ -112,6 +112,7 @@
 .horaire {
     display: inline;
     float: left;
+    
 }
 
 .jour {
@@ -119,7 +120,17 @@
 }
 
 .appel-text {
-    padding: 25px;
+    padding-top: 25px;
+}
+
+.jour-gras {
+    font: bolder !important;
+
+    /* background-color: red ; */
+}
+
+.heure {
+    
 }
 
 @media screen and (max-width: 800px) {

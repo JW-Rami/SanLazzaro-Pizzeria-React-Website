@@ -27,42 +27,64 @@ function Footer() {
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             />
+          <div>
+            124bd Carnot
+            <br /> <br />
+            Le Vésinet 78110
+             <br /> <br />
+            Tél: <a href="tel:0139764525"> 01 39 76 45 25</a>.
+          </div>
           <div className="horaire">
             <p className="jour">
-            Lundi: 8:00 20:00 
+            <span className="jour-gras">Lundi: </span> 
+            <span className="heure">
+            12:00-14:30
+            </span>
             </p>
             <p className="jour">
-            Mardi: 8:00 20:00 
+            <span className="jour-gras">Mardi: </span>
+             <span className="heure">
+             12:00-14:30 & 18:30-22:30 
+             </span>
             </p>            
             <p className="jour">
-            Mercredi: 8:00 20:00 
+            <span className="jour-gras">Mercredi: </span> 
+            <span className="heure">
+            12:00-14:30 & 18:30-22:30 
+            </span>
             </p>            
             <p className="jour">
-            Mardi: 8:00 20:00 
+            <span className="jour-gras">Jeudi: </span> 
+            <span className="heure">
+            12:00-14:30 & 18:30-22:30 
+            </span>
             </p>            
             <p className="jour">
-            Mardi: 8:00 20:00 
+            <span className="jour-gras">Vendredi: </span> 
+            <span className="heure">
+            12:00-14:30 & 18:30-22:30 
+            </span>
             </p>            
             <p className="jour">
-            Mardi: 8:00 20:00 
+            <span className="jour-gras">Samedi: </span>  
+            <span className="heure">
+            12:00-14:30 & 18:30-22:30 
+            </span>
             </p>            
             <p className="jour">
-            Mardi: 8:00 20:00 
+            <span className="jour-gras">Dimanche: </span> 
+            Fermé 
             </p>        
 
           </div>
         </div>
-            <p className="appel-text" >
-            Pour tout autre questions n'hésitez pas à nous appeler au <a href="tel:0139764525"> 01 39 76 45 25</a>.
-            </p>    
+
         
         <div className="footer__texts">
           <p className="footer__text footer__text--light">
-            Venez dégustez nos plats directement au Vésinet, cliquez sur itinéraires pour connaître le meilleur chemin pour venir chez San Lazzaro Veneziano
+            Venez dégustez nos plats directement au Vésinet, cliquez sur "Itinéraires" pour connaître le meilleur chemin pour venir chez San Lazzaro Veneziano
           </p>
-          <p className="footer__text">
-            Pour tout autre question n'hésitez pas à nous contacter
-          </p>
+
         </div>
         <div className="footer__info">
           <div>
