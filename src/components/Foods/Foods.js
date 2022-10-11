@@ -4,7 +4,7 @@ import MexicanData from "../../data/Mexican";
 import FastFoodData from "../../data/FastFood";
 import IranianData from "../../data/Iranian";
 import Title from "../Title/Title";
-import ItalianFoods from "../Italianfoods/italianFoods";
+import ItalianFoods from "../Italianfoods/ItalianFoods";
 
 function Foods() {
     return (
