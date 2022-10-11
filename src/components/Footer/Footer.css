@@ -5,7 +5,18 @@
 }
 .footer-container {
     max-width: 76vw;
+
 }
+
+.horaire-et-maps {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    flex-wrap: wrap;
+}
+
 .footer__links {
     display: flex;
     justify-content: flex-start;
@@ -100,11 +111,15 @@
 
 .horaire {
     display: inline;
-    float: right;
+    float: left;
 }
 
 .jour {
     margin-bottom: 20px ;
+}
+
+.appel-text {
+    padding: 25px;
 }
 
 @media screen and (max-width: 800px) {

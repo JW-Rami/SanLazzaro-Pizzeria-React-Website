@@ -17,6 +17,8 @@ function Footer() {
             Services
           </a>
         </div>
+        <div className="horaire-et-maps">
+
         <iframe 
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d655.7271556241211!2d2.1133862999999997!3d48.8980786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e662888ceca6eb%3A0x64b601a697f1ae6a!2sSan%20Lazzaro%20Veneziano.!5e0!3m2!1sfr!2sfr!4v1664760334118!5m2!1sfr!2sfr"
               className="googlemap"
@@ -46,16 +48,20 @@ function Footer() {
             </p>            
             <p className="jour">
             Mardi: 8:00 20:00 
-            </p>            
+            </p>        
+
           </div>
+        </div>
+            <p className="appel-text" >
+            Pour tout autre questions n'hésitez pas à nous appeler au <a href="tel:0139764525"> 01 39 76 45 25</a>.
+            </p>    
         
         <div className="footer__texts">
           <p className="footer__text footer__text--light">
-            Far far away, behind the word mountains, far from the countries
-            Vokalia and Consonantia, there live the blind texts.
+            Venez dégustez nos plats directement au Vésinet, cliquez sur itinéraires pour connaître le meilleur chemin pour venir chez San Lazzaro Veneziano
           </p>
           <p className="footer__text">
-            Contrary to popular belief, Lorem Ipsum is not simply random text.
+            Pour tout autre question n'hésitez pas à nous contacter
           </p>
         </div>
         <div className="footer__info">
@@ -67,36 +73,6 @@ function Footer() {
               target="_blank"
             >
               &copy; Rami Abdou
-            </a>
-          </div>
-          <div>
-            <a
-              href="https://www.instagram.com/seyedmahdii_/"
-              className="footer__info-link"
-              target="_blank"
-            >
-              {/* <InstagramIcon className="footer__icon" />
-            </a>
-            <a
-              href="https://twitter.com/seyedmahdii_"
-              className="footer__info-link"
-              target="_blank"
-            >
-              <TwitterIcon className="footer__icon" />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/seyed-mahdi-jalali-730578210/"
-              className="footer__info-link"
-              target="_blank"
-            >
-              <LinkedInIcon className="footer__icon" />
-            </a>
-            <a
-              href="https://github.com/seyedmahdii"
-              className="footer__info-link"
-              target="_blank"
-            >
-              <GitHubIcon className="footer__icon" /> */}
             </a>
           </div>
         </div>

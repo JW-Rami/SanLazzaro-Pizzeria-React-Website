@@ -52,35 +52,11 @@ function Header() {
                     <div className="header__right">
                         <div className="header__list" ref={headerList}>
                             <div className="header__buttons">
-                                {/* 
-                                    Button "Log In" or "Sign Up" for Authentification
-                                    <a
-                                    href="#"
-                                    className="header__button header__button--bordered"
-                                >
-                                    Log In
-                                </a>
-                                <a
-                                    href="#"
-                                    className="header__button header__button--fill"
-                                >
-                                    Sign Up
-                                </a> */}
-                            </div>
-                            <a href="#" className="header__list-item">
-                                Orders
-                            </a>
-                            {/* <a href="#tablereservation" className="header__list-item">
-                                Réserver une table
-                            </a> */}
-                            
+                            </div>                            
                             <a href="">
-
                                 <Link to="#tablereservation" className="header__list-item"> Réserver une table </Link>
-
                             </a>
                             <span>
-                            {/* <Link to ="/tablereservation">Réserver une table</Link> */}
                             </span>
                             <a href="" >
                                 <Link to="#Italianfoods" className="header__list-item">
