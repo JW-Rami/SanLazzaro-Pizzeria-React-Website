@@ -3,8 +3,8 @@ import FoodSection from "../FoodSection/FoodSection";
 import MexicanData from "../../data/Mexican";
 import FastFoodData from "../../data/FastFood";
 import IranianData from "../../data/Iranian";
-import Title from "../Title/Title";
 import ItalianFoods from "../Italianfoods/ItalianFoods";
+import Title from "../Title/Title";
 
 function Foods() {
     return (
