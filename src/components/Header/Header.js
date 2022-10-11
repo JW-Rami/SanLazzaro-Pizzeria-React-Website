@@ -53,11 +53,15 @@ function Header() {
                         <div className="header__list" ref={headerList}>
                             <div className="header__buttons">
                             </div>                            
+                            <a href="" >
+                                <Link to="#venir-manger" className="header__list-item">
+                                Venir manger
+                                    </Link> 
+                            </a>
                             <a href="">
                                 <Link to="#tablereservation" className="header__list-item"> Réserver une table </Link>
                             </a>
-                            <span>
-                            </span>
+
                             <a href="" >
                                 <Link to="#Italianfoods" className="header__list-item">
                                 Notre carte
