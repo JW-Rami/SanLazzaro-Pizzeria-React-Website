@@ -8,7 +8,6 @@ import CompleteMenu from "../CompleteMenu/CompleteMenu";
 import Footer from "../Footer/Footer";
 import Menu from "../Menu/menu";
 import pdfFile from "../../assets/pdf/la_carte.pdf";
-import { Link } from "react-router-dom";
 
 
 function ItalianFoods() {

@@ -7,7 +7,6 @@ import Logo from "../../assets/images/SanLazzaroBlack.svg";
 import WhiteLogo from "../../assets/images/SanLazzaroWhite.svg";
 import CloseIcon from "@material-ui/icons/Close";
 import { HashLink as Link } from "react-router-hash-link";
-import TableReservation from "../TableReservation/TableReservation";
 
 function Header() {
     const headerRef = useRef(null);
