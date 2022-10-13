@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
-import Default from "./components/Default/Default";
+
 
 
 import { BrowserRouter as Router, Switch, Route, Redirect, Link } from "react-router-dom";

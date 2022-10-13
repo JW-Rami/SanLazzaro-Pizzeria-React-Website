@@ -8,8 +8,8 @@ import CompleteMenu from "../CompleteMenu/CompleteMenu";
 import Footer from "../Footer/Footer";
 import Menu from "../Menu/menu";
 import pdfFile from "../../assets/pdf/la_carte.pdf";
-// import View1 from "../TestAspect/View1.js"
 import { Link } from "react-router-dom";
+
 
 function ItalianFoods() {
   return (
@@ -45,6 +45,7 @@ function ItalianFoods() {
           />
           {/* <Link to="/Test"> */}
           {/* <CompleteMenu/> */}
+          
 
           <h2 className="full-menu-button">
             <a className="border-button" href={pdfFile}>
