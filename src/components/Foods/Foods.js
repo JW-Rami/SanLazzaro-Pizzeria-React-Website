@@ -1,5 +1,5 @@
 import React from "react";
-import ItalianFoods from "../Italianfoods/ItalianFoods";
+import ItalianFoods from '../Italianfoods/ItalianFoods';
 import Title from "../Title/Title";
 
 function Foods() {
