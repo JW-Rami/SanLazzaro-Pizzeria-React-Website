@@ -1,0 +1,94 @@
+.Italian {
+    display: flex;
+    justify-content: center;
+}
+
+.ItalianFoods {
+    display: flex;
+    justify-content: center;
+    border: 0.2em solid rgb(209, 202, 202);
+    flex-wrap: wrap;
+    width: 80%;
+}
+
+@media screen and (max-width: 800px) {
+
+    .ItalianFoods{
+        display: block;
+    }
+
+    .border-button {
+        padding: 12px 25px !important;
+        /* color: red !important; */
+        border: 0.3rem solid transparent !important;
+        font-size: 20px !important;
+
+    }
+   
+}
+
+
+
+
+.menu {
+    font-size: 1em;
+    padding: 1.5em;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 20%;
+}
+
+.mealstitle {
+padding-bottom: 10%;
+}
+
+.mealsdescription {
+    font-size: 0.8em;
+}
+
+
+
+
+.full-menu-button {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    /* border: 0.2em solid rgb(209, 202, 202); */
+    color: black;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 100%;
+    height: 7em;
+}
+
+
+.border-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.25rem 2rem;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    /* color: rgb(190, 34, 34); */
+    backface-visibility: hidden;
+    border: 1.3rem solid transparent;
+    border-radius: 3rem;
+  }
+  
+  .border-button {
+    border-color: transparent;
+    background-color: rgb(243, 231, 231);
+    color: #000;
+    transition: transform 0.2s cubic-bezier(0.235, 0, 0.05, 0.95);
+  }
+    
+  .border-button:hover {
+    transform: perspective(1px) scale3d(1.044, 1.044, 1) translateZ(0) !important;
+    transition-duration: 500ms;
+    background-color:  black ;
+    color: white;
+
+    
+  }
