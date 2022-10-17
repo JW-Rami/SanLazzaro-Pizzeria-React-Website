@@ -28,7 +28,6 @@ function App() {
     }
 
     return (
-
         <div className="app">
             {/* <Routes>
             <Route path="/TableReservation"> element={<TableReservation /> }</Route>
@@ -38,7 +37,6 @@ function App() {
                 <Route path="/" element={<Home/>} />
                 <Route path="/Test" element={<CompleteMenu/>} />
                </Routes>
-            
             </BrowserRouter>
         </div>
     );
