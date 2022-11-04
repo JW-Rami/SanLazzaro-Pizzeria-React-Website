@@ -3,8 +3,8 @@ import "./Header.css";
 import { IconButton } from "@material-ui/core";
 import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 import MenuIcon from "@material-ui/icons/Menu";
-import Logo from "../../assets/images/SanLazzaroBlack.svg";
-import WhiteLogo from "../../assets/images/SanLazzaroWhite.svg";
+import Logo from "../../assets/images/SanLazzaroBlack1.svg";
+import WhiteLogo from "../../assets/images/SanLazzaroWhite1.svg";
 import CloseIcon from "@material-ui/icons/Close";
 import { HashLink as Link } from "react-router-hash-link";
 
@@ -68,9 +68,9 @@ function Header() {
                             </a>
                         </div>
                         <div>
-                            <IconButton className="header__main-btn">
+                            {/* <IconButton className="header__main-btn">
                                 <ShoppingBasketIcon className="header__icon" />
-                            </IconButton>
+                            </IconButton> */}
                             <IconButton
                                 className="header__main-btn header__menu-btn"
                                 onClick={sideMenuHandler}
