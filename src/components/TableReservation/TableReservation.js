@@ -13,7 +13,7 @@ function TableReservation() {
       </span>
       <span className="" id="tablereservation">
         <InlineWidget
-        url="https://calendly.com/arthur-bineau/sanlazzaro" />
+        url="https://calendly.com/sanlazzaro/sanlazzaro" />
       </span>
     </div>
   );
