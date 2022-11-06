@@ -16,11 +16,14 @@
 }
 
 .footer__links {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  flex-wrap: nowrap;
-  border-bottom: 0.5px solid #464646;
+  /* display: flex; */
+  text-align: center;
+font-weight: bold;
+font-size: 1.2em;
+  /* justify-content: flex-start; */
+  /* align-items: center; */
+  /* flex-wrap: nowrap; */
+  border-bottom: 0.5px solid #737373;
   margin: 2rem;
 }
 .footer__links::-webkit-scrollbar {
@@ -99,11 +102,19 @@
   font-size: 1.5rem !important;
 }
 
+.container-google-map {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
 .googlemap {
   display: inline;
+  /* justify-content: center; */
   width: 650px;
   height: 350px;
 }
+
 
 .horaires {
   display: flex;
