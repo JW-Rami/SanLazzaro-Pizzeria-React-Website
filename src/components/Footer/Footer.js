@@ -1,29 +1,22 @@
 import React from "react";
 import "./Footer.css";
-// import InstagramIcon from "@material-ui/icons/Instagram";
-// import TwitterIcon from "@material-ui/icons/Twitter";
-// import LinkedInIcon from "@material-ui/icons/LinkedIn";
-// import GitHubIcon from "@material-ui/icons/GitHub";
-// import WhiteLogo from "../../assets/images/SanLazzaroWhite.svg";
 
 function Footer() {
   return (
     <footer className="footer">
-      {/* <img className="logo-footer" src={WhiteLogo} alt="" /> */}
       <div className="container footer-container">
         <div className="footer__links">Notre emplacement:</div>
         <div className="horaire-et-maps" id="venir-manger">
           <div className="container-google-map">
-
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d655.7271556241211!2d2.1133862999999997!3d48.8980786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e662888ceca6eb%3A0x64b601a697f1ae6a!2sSan%20Lazzaro%20Veneziano.!5e0!3m2!1sfr!2sfr!4v1664760334118!5m2!1sfr!2sfr"
-            className="googlemap"
-            style={{ border: 0 }}
-            allowFullScreen=""
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d655.7271556241211!2d2.1133862999999997!3d48.8980786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e662888ceca6eb%3A0x64b601a697f1ae6a!2sSan%20Lazzaro%20Veneziano.!5e0!3m2!1sfr!2sfr!4v1664760334118!5m2!1sfr!2sfr"
+              className="googlemap"
+              style={{ border: 0 }}
+              allowFullScreen=""
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
             />
-            </div>
+          </div>
           <div>
             124bd Carnot
             <br /> <br />
